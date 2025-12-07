@@ -1,2 +1,2 @@
 # keylogger
-Simple C++ Keylogger
+This is for educational purposes only
